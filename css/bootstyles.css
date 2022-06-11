@@ -1,0 +1,66 @@
+.tableauheader{
+    font-size: 60pt;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    color: red;
+}
+body {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover
+}
+.graphstuff{
+    position: absolute;
+    left: 50px;
+    right: 50px;
+    height: 100px;
+    width: auto;
+
+}
+.graphstuff2{
+    position: absolute;
+    top: 2100px;
+    left: 50px;
+    right: 50px;
+    height: 100px;
+    width: auto;
+
+}
+.graphstuff3{
+    position: absolute;
+    top: 3900px;
+    left: 50px;
+    right: 50px;
+    height: 100px;
+    width: auto;
+
+}
+
+.graphstuff4{
+    position: absolute;
+    top: 5700px;
+    left: 50px;
+    right: 50px;
+    height: 100px;
+    width: auto;
+
+}
+.captiontext1{
+    color: grey;
+    font-size: xx-large;
+}
+
+.captiontext2{
+    color: grey;
+    font-size: xx-large;
+    font-style: italic;
+}
+.tableaufooter{
+    font-size: 40pt;
+    text-align: center;
+    position: relative;
+    top: 7000px;
+    width: 100%;
+    color: white;
